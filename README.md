@@ -2,7 +2,7 @@
 
 🌟**Desarrollador web frontend** 
 
-Inicié mi carrera en el desarrollo web en 2016, trabajando con tecnologías como PHP y MySQL en proyectos freelance, entre los que se incluyen sistemas de control de inventarios y estadísticas de personal. Tras una pausa en mi trayectoria, en 2021 retomé mi formación, orientándome al desarrollo frontend. Durante este tiempo, adquirí experiencia en JavaScript y frameworks como React y TailwindCSS. Aunque no he tenido experiencia laboral formal en empresas, me sigo actualizando y especializando en las tecnologías más relevantes del sector, con el objetivo de continuar creciendo profesionalmente.
+Inicié mi carrera en el desarrollo web en 2016, trabajando con tecnologías como PHP y MySQL en proyectos freelance, entre los que se incluyen sistemas de control de inventarios y estadísticas de personal. Tras una pausa en mi trayectoria, en 2022 retomé mi formación, orientándome al desarrollo frontend. Durante este tiempo, adquirí experiencia en JavaScript y frameworks como React y TailwindCSS. Aunque no he tenido experiencia laboral formal en empresas, me sigo actualizando y especializando en las tecnologías más relevantes del sector, con el objetivo de continuar creciendo profesionalmente.
 
 🖥️ **Experiencia con tecnologias:**
   - Javascript
