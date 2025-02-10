@@ -17,6 +17,3 @@ Inicié mi carrera en el desarrollo web en 2016, trabajando con **PHP** y **MySQ
 📧 **Correo:** [sebasd3x@gmail.com](mailto:sebasd3x@gmail.com)  
 🌐 [Portfolio web](https://sebastiandc.vercel.app)
 
-
-### 🎨 **Intereses personales:**  
-Fotografía, Videojuegos
